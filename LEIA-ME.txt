@@ -1,0 +1,22 @@
+# Site UP3 — versão inicial
+
+## Arquivos
+- `index.html`: Home da UP3
+- `junior.html`: página UP Júnior
+- `teen.html`: página UP Teen
+- `jovem.html`: página UP Jovem
+- `styles.css`: identidade visual e responsividade
+- `script.js`: menu mobile e carrossel
+- `assets/`: logos e imagens enviadas
+
+## Como visualizar
+Abra `index.html` no navegador. Para publicar, envie a pasta inteira para um serviço de hospedagem estática como GitHub Pages, Netlify ou Vercel.
+
+## Antes de publicar
+1. Preencha os contatos oficiais nos arquivos HTML.
+2. Troque os cartões de exemplo por fotos, datas, cultos, projetos e produtos reais.
+3. Os mascotes foram associados visualmente assim: leão = UP Júnior; águia = UP Teen; ovelha = UP Jovem. Você pode trocar essa associação se preferir.
+4. A UP Legacy ficou fora desta versão, conforme solicitado.
+
+## Observação
+Esta é uma vitrine institucional estática. Não possui painel administrativo, banco de dados, carrinho ou pagamentos. Para adicionar conteúdo, edite os arquivos HTML e substitua/adicone imagens na pasta `assets`.
